@@ -1,0 +1,25 @@
+h1{color: red; background-color: lightblue; text-align: right;
+
+}
+h2{color:lightgreen; background-color: purple;
+
+}
+p{background-color: white;
+}
+
+body{
+    background-image: url(ek.jpg
+    )
+}
+
+
+.links ul{
+    color: black;
+}
+
+a{
+    background-color: black;
+}
+a:visited{
+    color: white;
+}
